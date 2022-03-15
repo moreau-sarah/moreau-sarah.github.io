@@ -103,7 +103,7 @@ h1 {
 h2 {
   position: relative;
   color: black;
-  font-family: Montserrat-bold;
+  font-family: Montserrat;
   font-weight: bold;
   font-size: 30px;
   text-align: center;
@@ -164,7 +164,8 @@ color: rgb(234,87,14);
 }
 
 .cvAnnee{
-  font-family: Montserrat-semibold;
+  font-family: Montserrat;
+  font-weight : semi-bold;
   font-size: 18px;
 }
 
