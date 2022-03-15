@@ -50,7 +50,7 @@ body {
   position: absolute;
   top: 60px;
   left: 615px;
-  font-family: Montserrat;
+  font-family: Montserrat Light;
   font-weight: Light;
   font-size: 24px;
   opacity: 1;
@@ -62,7 +62,7 @@ body {
   position: absolute;
   top: 59px;
   left: 771px;
-  font-family: Montserrat;
+  font-family: Montserrat Light;
   font-weight: Light;
   font-size: 24px;
   opacity: 1;
@@ -103,7 +103,7 @@ h1 {
 h2 {
   position: relative;
   color: black;
-  font-family: Montserrat;
+  font-family: Montserrat Bold;
   font-weight: bold;
   font-size: 30px;
   text-align: center;
@@ -113,7 +113,8 @@ h3{
   text-align: center;
   position: relative;
   color: rgb(234,87,14);
-  font-family: Montserrat-light;
+  font-family: Montserrat Light;
+  font-weight: light;
   font-size: 25px;
 
 }
@@ -123,7 +124,7 @@ h4{
   text-align: center;
   position: relative;
   color: black;
-  font-family: Montserrat;
+  font-family: Montserrat Bold;
   font-weight: bold;
   font-size: 20px;
   border-top: 1px solid black;
