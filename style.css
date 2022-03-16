@@ -51,7 +51,6 @@ body {
   top: 60px;
   left: 615px;
   font-family: Montserrat;
-  font-weight: Light;
   font-size: 24px;
   opacity: 1;
   text-align: left;
@@ -63,7 +62,6 @@ body {
   top: 59px;
   left: 771px;
   font-family: Montserrat;
-  font-weight: Light;
   font-size: 24px;
   opacity: 1;
   text-align: left;
@@ -75,7 +73,6 @@ body {
   top: 60px;
   left: 952px;
   font-family: Montserrat;
-  font-weight: Regular;
   font-size: 26px;
   opacity: 1;
   text-align: left;
@@ -87,7 +84,6 @@ body {
   top: 60px;
   left: 1223px;
   font-family: Montserrat;
-  font-weight: Light;
   font-size: 24px;
   opacity: 1;
   text-align: left;
@@ -104,7 +100,6 @@ h2 {
   position: relative;
   color: black;
   font-family: Montserrat;
-  font-weight: bold;
   font-size: 30px;
   text-align: center;
 }
@@ -114,7 +109,6 @@ h3{
   position: relative;
   color: rgb(234,87,14);
   font-family: Montserrat;
-  font-weight: light;
   font-size: 25px;
 
 }
@@ -125,7 +119,6 @@ h4{
   position: relative;
   color: black;
   font-family: Montserrat;
-  font-weight: bold;
   font-size: 20px;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
@@ -166,7 +159,6 @@ color: rgb(234,87,14);
 
 .cvAnnee{
   font-family: Montserrat;
-  font-weight : semi-bold;
   font-size: 18px;
 }
 
